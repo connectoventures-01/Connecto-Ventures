@@ -18,10 +18,10 @@ export function WhyChooseUs({ advantageList, metricsList }: WhyChooseUsProps) {
       className="space-y-8 lg:space-y-12 pt-30"
     >
       <SectionHeader
-        badgeText="Why CCL"
+        badgeText="Why CV"
         badgeIcon={HelpCircle}
         title="Why Choose Us"
-        subtitle="We measure our success by yours — here's what sets Capital Connect Labs apart."
+        subtitle="We measure our success by yours — here's what sets connecto ventures apart."
       />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-6 items-stretch">
         <motion.div

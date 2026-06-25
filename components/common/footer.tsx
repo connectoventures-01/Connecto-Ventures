@@ -23,23 +23,23 @@ export default function Footer() {
               className="flex items-center gap-2 cursor-pointer"
             >
               <Image
-                className="size-10 lg:size-12"
+                className="size-16 lg:size-22"
                 width={48}
                 height={46}
                 src={"/logo.svg"}
-                alt="Capital Connect Labs Logo"
+                alt="connecto ventures Logo"
               />
             </Link>
 
             <p className="text-muted md:text-base font-light leading-relaxed max-w-sm">
-              Capital Connect Labs is an incubator and accelerator platform
+              connecto ventures is an incubator and accelerator platform
               designed to support startups from ideation to growth.
             </p>
 
             <div className="flex items-center gap-3">
               <a
                 href="#"
-                aria-label="Follow Capital Connect Labs on X platform"
+                aria-label="Follow connecto ventures on X platform"
                 className="size-10 rounded-full bg-gray-2 hover:bg-brand transition-colors flex items-center justify-center text-foreground/80 hover:text-black"
               >
                 <svg className="size-4 fill-current" viewBox="0 0 24 24">
@@ -48,7 +48,7 @@ export default function Footer() {
               </a>
               <a
                 href="#"
-                aria-label="Follow Capital Connect Labs on Facebook profile"
+                aria-label="Follow connecto ventures on Facebook profile"
                 className="size-10 rounded-full bg-gray-2 hover:bg-brand transition-colors flex items-center justify-center text-foreground/80 hover:text-black"
               >
                 <svg className="size-4 fill-current" viewBox="0 0 24 24">
@@ -57,7 +57,7 @@ export default function Footer() {
               </a>
               <a
                 href="#"
-                aria-label="Follow Capital Connect Labs on Instagram profile"
+                aria-label="Follow connecto ventures on Instagram profile"
                 className="size-10 rounded-full bg-gray-2 hover:bg-brand transition-colors flex items-center justify-center text-foreground/80 hover:text-black"
               >
                 <svg
@@ -73,7 +73,7 @@ export default function Footer() {
               </a>
               <a
                 href="#"
-                aria-label="Follow Capital Connect Labs on GitHub source portal"
+                aria-label="Follow connecto ventures on GitHub source portal"
                 className="size-10 rounded-full bg-gray-2 hover:bg-brand transition-colors flex items-center justify-center text-foreground/80 hover:text-black"
               >
                 <svg className="size-4 fill-current" viewBox="0 0 24 24">
@@ -144,7 +144,7 @@ export default function Footer() {
 
           <div className="md:col-span-4 space-y-4">
             <h4 className="text-base font-bold text-foreground">
-              Subscribe to Capital Connect Labs
+              Subscribe to connecto ventures
             </h4>
 
             <form
@@ -171,7 +171,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-2/40 p-8 text-center">
           <p className="text-xs text-muted leading-normal">
-            &copy; 2026 Capital Connect Labs. All Rights Reserved.
+            &copy; 2026 connecto ventures. All Rights Reserved.
           </p>
         </div>
       </div>

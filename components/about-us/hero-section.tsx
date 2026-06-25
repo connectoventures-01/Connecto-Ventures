@@ -27,7 +27,7 @@ export function HeroSection() {
           className="mb-4 lg:mb-8"
         >
           <Badge
-            pillText="CCL"
+            pillText="CV"
             text="Empowering early-stage startups"
             showArrow={false}
           />

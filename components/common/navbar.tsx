@@ -182,7 +182,7 @@ export default function Navbar() {
                 alt="logo"
                 width={48}
                 height={48}
-                className="size-10 lg:size-12"
+                className="size-16 lg:size-22"
                 priority
               />
             </Link>

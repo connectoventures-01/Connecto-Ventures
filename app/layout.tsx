@@ -11,7 +11,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Capital Connect Labs - Build. Launch. Scale.",
+  title: "connecto ventures - Build. Launch. Scale.",
   description:
     "We partner with ambitious founders to move from idea to traction. Join our incubator and accelerator programs with structured support, hands-on mentorship, and strategic access to capital.",
 
@@ -31,21 +31,21 @@ export const metadata: Metadata = {
   ],
 
   alternates: {
-    canonical: "https://capital-connect-lab.netlify.app/",
+    canonical: "https://connectoventures.com/",
   },
 
   openGraph: {
-    title: "Capital Connect Labs | Empowering Early-Stage Startups to Succeed",
+    title: "connecto ventures | Empowering Early-Stage Startups to Succeed",
     description:
       "Accelerating ambitious ventures from initial validation to rapid fundraising readiness. Discover our Incubator and Accelerator pathways built to scale.",
-    url: "https://capital-connect-lab.netlify.app/",
-    siteName: "Capital Connect Labs",
+    url: "https://connectoventures.com/",
+    siteName: "connecto ventures",
     images: [
       {
-        url: "https://capital-connect-lab.netlify.app/leadershipteam.webp",
+        url: "https://connectoventures.com/leadershipteam.webp",
         width: 1200,
         height: 630,
-        alt: "Capital Connect Labs - Build. Launch. Scale.",
+        alt: "connecto ventures - Build. Launch. Scale.",
       },
     ],
     locale: "en_US",
@@ -54,10 +54,10 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Capital Connect Labs | Build. Launch. Scale.",
+    title: "connecto ventures | Build. Launch. Scale.",
     description:
       "We partner with ambitious founders to help them move from idea to traction with structured growth frameworks and deep investor networks.",
-    images: ["https://capital-connect-lab.netlify.app/leadershipteam.webp"],
+    images: ["https://connectoventures.com/leadershipteam.webp"],
   },
 };
 

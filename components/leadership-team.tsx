@@ -21,11 +21,11 @@ export default function LeadershipTeam() {
             Our Leadership Team
           </h2>
           <p className="text-muted text-sm md:text-base font-light leading-relaxed">
-            The Capital Connect Labs leadership team brings together a unique
-            blend of enterprise leadership, startup building, investment
-            expertise, and operational execution. With experience spanning
-            global technology organizations, fintech, startup fundraising,
-            product development, and alternative investments, we offer founders
+            The connecto ventures leadership team brings together a unique blend
+            of enterprise leadership, startup building, investment expertise,
+            and operational execution. With experience spanning global
+            technology organizations, fintech, startup fundraising, product
+            development, and alternative investments, we offer founders
             strategic vision coupled with hands-on execution capability.
           </p>
         </div>

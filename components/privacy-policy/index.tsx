@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
               <span className="text-brand text-sm">1.</span> Introduction
             </h2>
             <p className="text-muted text-sm md:text-base font-light leading-relaxed pl-6">
-              Welcome to Capital Connect Labs. Capital Connect Labs is a startup
+              Welcome to connecto ventures. connecto ventures is a startup
               ecosystem platform focused on supporting founders, startups,
               investors, mentors, and ecosystem participants through incubation,
               acceleration, strategic guidance, networking opportunities,
@@ -84,16 +84,16 @@ export default function PrivacyPolicyPage() {
               Responsible Usage
             </h2>
             <p className="text-muted text-sm md:text-base font-light leading-relaxed pl-6">
-              Capital Connect Labs values privacy, confidentiality, and
-              responsible data management. Information shared with us will
-              primarily be used for evaluation, educational, research,
-              ecosystem-building, and service delivery purposes. We do not sell
-              personal information to third parties. Any sharing of information
-              will be limited to educational purposes, ecosystem collaboration,
-              startup-investor introductions (with consent where appropriate),
-              service delivery requirements, or legal or regulatory obligations.
-              Confidential startup information, business plans, and sensitive
-              materials will be treated responsibly and with reasonable care.
+              connecto ventures values privacy, confidentiality, and responsible
+              data management. Information shared with us will primarily be used
+              for evaluation, educational, research, ecosystem-building, and
+              service delivery purposes. We do not sell personal information to
+              third parties. Any sharing of information will be limited to
+              educational purposes, ecosystem collaboration, startup-investor
+              introductions (with consent where appropriate), service delivery
+              requirements, or legal or regulatory obligations. Confidential
+              startup information, business plans, and sensitive materials will
+              be treated responsibly and with reasonable care.
             </p>
           </section>
           <section className="space-y-3">
@@ -103,9 +103,9 @@ export default function PrivacyPolicyPage() {
             </h2>
             <p className="text-muted text-sm md:text-base font-light leading-relaxed pl-6">
               Where startups or investors voluntarily participate in
-              introductions facilitated by Capital Connect Labs: Relevant
+              introductions facilitated by connecto ventures: Relevant
               information may be shared for evaluation purposes. Participants
-              remain responsible for their own due diligence. Capital Connect
+              remain responsible for their own due diligence. Connecto Ventures
               Labs does not guarantee funding, investment, business outcomes, or
               commercial success.
             </p>
@@ -120,8 +120,8 @@ export default function PrivacyPolicyPage() {
                 <strong>06. Payments:</strong> Certain services, events,
                 programs, memberships, workshops, consultations, or future
                 offerings may require payment. Payments may be processed through
-                third-party providers. Capital Connect Labs does not store
-                complete payment card information.
+                third-party providers. connecto ventures does not store complete
+                payment card information.
               </p>
               <p>
                 <strong>07. Refund Policy:</strong> Unless otherwise stated in
@@ -155,7 +155,7 @@ export default function PrivacyPolicyPage() {
               <p>
                 <strong>10. Third-Party Services:</strong> Our website may
                 contain links to third-party websites, tools, payment
-                processors, or external platforms. Capital Connect Labs is not
+                processors, or external platforms. connecto ventures is not
                 responsible for the privacy practices or content of such
                 third-party services.
               </p>
@@ -170,12 +170,12 @@ export default function PrivacyPolicyPage() {
               <p>
                 <strong>11. Intellectual Property:</strong> All content on this
                 website, including text, graphics, branding, logos, educational
-                materials, and related content, remains the property of Capital
-                Connect Labs unless otherwise stated. Unauthorized reproduction
-                or distribution is prohibited.
+                materials, and related content, remains the property of Connecto
+                Ventures unless otherwise stated. Unauthorized reproduction or
+                distribution is prohibited.
               </p>
               <p>
-                <strong>12. Limitation of Liability:</strong> Capital Connect
+                <strong>12. Limitation of Liability:</strong> Connecto Ventures
                 Labs provides ecosystem support, educational resources,
                 networking opportunities, startup services, and related
                 activities. We do not guarantee investment, funding, startup

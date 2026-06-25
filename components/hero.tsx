@@ -44,7 +44,7 @@ export default function Hero() {
           }}
           className="mb-4 lg:mb-8"
         >
-          <Badge pillText="CCL" text="Empowering early-stage startups" />
+          <Badge pillText="CV" text="Empowering early-stage startups" />
         </motion.div>
 
         <motion.h1

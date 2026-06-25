@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: PageProps) {
   const member = TEAM_MEMBERS.find((m) => m.id === slug);
   if (!member) return {};
   return {
-    title: `${member.name} — Capital Connect Labs`,
+    title: `${member.name} — connecto ventures`,
     description: member.bio,
   };
 }

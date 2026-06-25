@@ -40,14 +40,6 @@ export const metadata: Metadata = {
       "Accelerating ambitious ventures from initial validation to rapid fundraising readiness. Discover our Incubator and Accelerator pathways built to scale.",
     url: "https://connectoventures.com/",
     siteName: "connecto ventures",
-    images: [
-      {
-        url: "https://connectoventures.com/leadershipteam.webp",
-        width: 1200,
-        height: 630,
-        alt: "connecto ventures - Build. Launch. Scale.",
-      },
-    ],
     locale: "en_US",
     type: "website",
   },
@@ -57,7 +49,6 @@ export const metadata: Metadata = {
     title: "connecto ventures | Build. Launch. Scale.",
     description:
       "We partner with ambitious founders to help them move from idea to traction with structured growth frameworks and deep investor networks.",
-    images: ["https://connectoventures.com/leadershipteam.webp"],
   },
 };
 

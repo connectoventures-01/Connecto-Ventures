@@ -66,10 +66,10 @@ function SupportFormContent() {
               <div>
                 <h4 className="text-base text-muted/70">Official inquiries</h4>
                 <a
-                  href="mailto:contact@capitalconnectslabs.com"
+                  href="mailto:contact@connectoventures.com"
                   className="text-sm sm:text-base font-medium text-white-100 hover:text-brand transition-colors cursor-pointer mt-0.5"
                 >
-                  contact@capitalconnectslabs.com
+                  contact@connectoventures.com
                 </a>
               </div>
             </div>

@@ -439,7 +439,7 @@ export default function LeadershipIllustration() {
         <FloatingBadge
           x={340}
           y={28}
-          label="connecto ventures"
+          label="Connecto Ventures"
           highlight
           delay={0.2}
           floatDelay={0}

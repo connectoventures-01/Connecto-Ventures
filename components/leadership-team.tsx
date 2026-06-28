@@ -21,7 +21,7 @@ export default function LeadershipTeam() {
             Our Leadership Team
           </h2>
           <p className="text-muted text-sm md:text-base font-light leading-relaxed">
-            The connecto ventures leadership team brings together a unique blend
+            The Connecto Ventures leadership team brings together a unique blend
             of enterprise leadership, startup building, investment expertise,
             and operational execution. With experience spanning global
             technology organizations, fintech, startup fundraising, product

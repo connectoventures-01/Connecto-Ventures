@@ -11,7 +11,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "connecto ventures - Build. Launch. Scale.",
+  title: "Connecto Ventures - Build. Launch. Scale.",
   description:
     "We partner with ambitious founders to move from idea to traction. Join our incubator and accelerator programs with structured support, hands-on mentorship, and strategic access to capital.",
 
@@ -35,18 +35,18 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "connecto ventures | Empowering Early-Stage Startups to Succeed",
+    title: "Connecto Ventures | Empowering Early-Stage Startups to Succeed",
     description:
       "Accelerating ambitious ventures from initial validation to rapid fundraising readiness. Discover our Incubator and Accelerator pathways built to scale.",
     url: "https://connectoventures.com/",
-    siteName: "connecto ventures",
+    siteName: "Connecto Ventures",
     locale: "en_US",
     type: "website",
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "connecto ventures | Build. Launch. Scale.",
+    title: "Connecto Ventures | Build. Launch. Scale.",
     description:
       "We partner with ambitious founders to help them move from idea to traction with structured growth frameworks and deep investor networks.",
   },

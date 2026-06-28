@@ -38,7 +38,7 @@ export function WhoWeAre() {
         badgeText="About Us"
         badgeIcon={Info}
         title="Who We Are"
-        subtitle="connecto ventures is an incubator and accelerator platform designed to support startups from ideation to growth."
+        subtitle="Connecto Ventures is an incubator and accelerator platform designed to support startups from ideation to growth."
       />
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 overflow-hidden p-2">
         {storySteps.map((step, idx) => {

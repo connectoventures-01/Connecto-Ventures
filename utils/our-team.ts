@@ -45,28 +45,28 @@ export const TEAM_MEMBERS = [
       "Strategic Partnerships & Ecosystem Building",
     ],
   },
-  {
-    id: "kshitij-deshmukh",
-    name: "Kshitij Deshmukh",
-    role: "Vice President — Investment Management",
-    linkedin: "https://www.linkedin.com/in/kshitij-deshmukh-67982b154/",
-    imgSrc: "/kshitij-deshmukh.png",
-    desc: "Kshitij Deshmukh is an investment and strategy professional with experience across alternative investments, lending, financial operations, and venture evaluation. He combines strong analytical capabilities with an execution-oriented mindset, bringing expertise in startup assessment, investment analysis, ecosystem building, and strategic growth.",
-    bio: "Kshitij Deshmukh is an investment and strategy professional with experience across alternative investments, lending, financial operations, and venture evaluation. He combines strong analytical capabilities with an execution-oriented mindset, bringing expertise in startup assessment, investment analysis, ecosystem building, and strategic growth.",
-    highlights: [
-      "8+ years of experience across alternative investments, lending, and financial operations",
-      "Senior Manager at a FinTech, supporting strategic initiatives within the Media & Entertainment sector",
-      "Experience in venture evaluation, financial analysis, due diligence, and investment operations",
-      "Led process design, operational improvements, and analytical initiatives across high-growth environments",
-      "Active contributor to startup ecosystem development, founder engagement, and early-stage opportunity sourcing",
-    ],
-    strengths: [
-      "Capital Markets & Alternative Investments",
-      "Portfolio Monitoring & Risk Assessment",
-      "Strategic Growth & Business Analysis",
-      "Founder & Investor Ecosystem Development",
-    ],
-  },
+  // {
+  //   id: "kshitij-deshmukh",
+  //   name: "Kshitij Deshmukh",
+  //   role: "Vice President — Investment Management",
+  //   linkedin: "https://www.linkedin.com/in/kshitij-deshmukh-67982b154/",
+  //   imgSrc: "/kshitij-deshmukh.png",
+  //   desc: "Kshitij Deshmukh is an investment and strategy professional with experience across alternative investments, lending, financial operations, and venture evaluation. He combines strong analytical capabilities with an execution-oriented mindset, bringing expertise in startup assessment, investment analysis, ecosystem building, and strategic growth.",
+  //   bio: "Kshitij Deshmukh is an investment and strategy professional with experience across alternative investments, lending, financial operations, and venture evaluation. He combines strong analytical capabilities with an execution-oriented mindset, bringing expertise in startup assessment, investment analysis, ecosystem building, and strategic growth.",
+  //   highlights: [
+  //     "8+ years of experience across alternative investments, lending, and financial operations",
+  //     "Senior Manager at a FinTech, supporting strategic initiatives within the Media & Entertainment sector",
+  //     "Experience in venture evaluation, financial analysis, due diligence, and investment operations",
+  //     "Led process design, operational improvements, and analytical initiatives across high-growth environments",
+  //     "Active contributor to startup ecosystem development, founder engagement, and early-stage opportunity sourcing",
+  //   ],
+  //   strengths: [
+  //     "Capital Markets & Alternative Investments",
+  //     "Portfolio Monitoring & Risk Assessment",
+  //     "Strategic Growth & Business Analysis",
+  //     "Founder & Investor Ecosystem Development",
+  //   ],
+  // },
 ];
 
 export type TeamMember = (typeof TEAM_MEMBERS)[number];

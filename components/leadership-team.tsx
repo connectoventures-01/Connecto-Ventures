@@ -1,10 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Image from "next/image";
 import Link from "next/link";
 import Badge from "./common/badge";
-import { Group, ArrowRight } from "lucide-react";
+import { Group, ArrowRight, Sparkles } from "lucide-react";
 import { TEAM_MEMBERS } from "@/utils/our-team";
 import LeadershipIllustration from "@/constants/leadership";
 
@@ -74,6 +73,47 @@ export default function LeadershipTeam() {
             </div>
           </motion.div>
         ))}
+
+        {/* Join Our Team CTA Card */}
+        <motion.div
+          transition={{ duration: 0.25 }}
+          className="bg-gray-1 border border-gray-2 rounded-2xl overflow-hidden flex flex-col transition-all duration-300 group"
+        >
+          <div className="w-full aspect-4/3 relative bg-gradient-to-br from-brand/20 via-[#1c1c1e] to-[#1c1c1e] overflow-hidden flex items-center justify-center">
+            {/* decorative glow */}
+            <div className="absolute -top-10 -right-10 w-40 h-40 bg-brand/25 rounded-full blur-3xl group-hover:bg-brand/35 transition-all duration-500" />
+            <div className="absolute -bottom-10 -left-10 w-32 h-32 bg-brand/15 rounded-full blur-3xl" />
+
+            <div className="relative z-10 w-16 h-16 rounded-2xl bg-brand/15 border border-brand/30 flex items-center justify-center group-hover:scale-110 transition-transform duration-500 ease-out">
+              <Sparkles className="size-8 text-brand" />
+            </div>
+          </div>
+
+          <div className="p-5 sm:p-6 flex flex-col justify-between flex-1 gap-4">
+            <div className="space-y-2">
+              <h3 className="text-xl font-bold text-foreground tracking-tight">
+                Join Our Team
+              </h3>
+              <p className="text-muted text-sm font-light leading-relaxed line-clamp-3">
+                We&apos;re always looking for driven, talented people to help
+                shape the future of Connecto Ventures. If you&apos;re passionate
+                about building great companies, we&apos;d love to hear from you.
+              </p>
+            </div>
+
+            <div className="flex items-center justify-between gap-2 pt-1">
+              <span className="text-brand font-medium text-sm md:text-base tracking-wide">
+                Get in Touch
+              </span>
+              <Link
+                href="/customer-support"
+                className="inline-flex items-center gap-1 text-sm md:text-base font-semibold text-brand hover:text-brand/70 transition-colors shrink-0"
+              >
+                Read More <ArrowRight className="size-6 -rotate-45" />
+              </Link>
+            </div>
+          </div>
+        </motion.div>
       </div>
     </section>
   );
